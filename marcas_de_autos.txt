@@ -1,0 +1,42 @@
+Alfa Romeo
+Audi
+BMW
+Bugatti
+Cheri
+Chrysler
+Citroen
+Dodge
+Fiat
+Ford
+Galloper
+Honda
+Hummer
+Hyunday ???
+International
+Ivecco
+Jaguar
+Jeep
+KTM
+Kia
+Lamborghini
+Land Rover
+Lincoln
+MG
+Mercedez Benz
+Mini
+Mitsubishi ???
+Daewoo
+Chevrolet
+Morgan
+Nissan
+Pagani
+Peugeot
+Playmonth
+Porche
+Renault
+Rover
+Smart
+Suziki
+Toyota
+Volkswagen
+Volvo

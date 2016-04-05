@@ -1,0 +1,60 @@
+Cerveza roja
+Submarino
+Cerveza tirada
+Yogurt bebible
+Mate
+Agua
+Agua tonica
+Aguamiel
+Anana frizz
+Bebida energetica
+Cafe
+Cafe con leche
+Capuccino
+Cerveza
+Cerveza negra
+Champagne
+Chocolatada
+Daiquiri
+Fanta
+Frapuccino
+Granadina
+Grapa
+Grapamiel
+Jugo de anana
+Jugo de frutilla
+Jugo de manzana
+Jugo de naranja
+Jugo de pera
+Jugo de uva
+Lagrima
+Latte
+Licuado de anana
+Licuado de banana
+Licuado de durazno
+Licuado de frutilla
+Licuado de melon
+Licuado de sandia
+Limonada
+Margarita
+Matecocido
+Milk shake
+Ron
+Sake
+Septimo regimiento
+Sidra
+Sinzano
+Soju
+Speed
+Te
+Te con leche
+Te de hierbas
+Vermount
+Vino
+Vino blanco
+Vino espumante
+Vodka
+Whisky
+Cognac
+Caipirina
+Lemonchello

@@ -1,0 +1,101 @@
+Acomodador
+Actor
+Aeromoza
+Analista de sistemas
+Anestesista
+Arbitro
+Arquelogo
+Artesano
+Artista
+Asesor de imagen
+Asistente
+Astrofisico
+Atleta
+Atronauta
+Azafata
+Bailarin
+Barrendero
+Baterista
+Cajero
+Camarografo
+Camionero
+Cantante
+Cantante
+Cardiologo
+Carnicero
+Catador de vinos
+Cerrajero
+Chef
+Comediante
+Comerciante
+Conductor de television
+Contador
+Coordinador
+DJ
+Dentista
+Director
+Director de fotografia
+Disenador grafico
+Ejecutivo
+Electricista
+Enfermero
+Escritor
+Escultor
+Filosofo
+Fisico
+Fotografo
+Fresador
+Futbolista
+Gasista
+Geografo
+Geologo
+Gerente
+Gomero
+Granjero
+Guionista
+Guitarrista
+Ingeniero
+Instrumentista
+Lenador
+Marinero
+Marino mercante
+Masajista
+Matematico
+Mecanico
+Medico
+Mendigo
+Musico
+Neurocirujano
+Neurologo
+Ninera
+Otorrinolarngologo
+Paleontogolo
+Paramedico
+Peluquero
+Periodista
+Periodista deportivo
+Periodista radial
+Pescador
+Pianista
+Piloto
+Pintor
+Plomero
+Podologo
+Policia
+Portero
+Programador
+Psicologo
+Quimico
+Radiologo
+Relator
+Repositor
+Sacerdote
+Secretario
+Sociologo
+Soldador
+Tapicero
+Taxista
+Tester de videojuegos
+Tornero
+Vendedor ambulante
+Zapatero
